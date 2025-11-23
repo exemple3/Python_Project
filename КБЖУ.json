@@ -1313,3 +1313,213 @@
     "готовые блюда"
   ]
 }
+{
+  "activities": [
+    {
+      "name": "ходьба медленная",
+      "category": "ходьба",
+      "calories_per_hour": 180,
+      "intensity": "низкая",
+      "description": "Прогулка в спокойном темпе"
+    },
+    {
+      "name": "ходьба быстрая",
+      "category": "ходьба",
+      "calories_per_hour": 300,
+      "intensity": "средняя",
+      "description": "Быстрая ходьба, учащается пульс"
+    },
+    {
+      "name": "ходьба в гору",
+      "category": "ходьба",
+      "calories_per_hour": 400,
+      "intensity": "средняя",
+      "description": "Ходьба по пересеченной местности или в гору"
+    },
+    {
+      "name": "бег легкий",
+      "category": "бег",
+      "calories_per_hour": 500,
+      "intensity": "средняя",
+      "description": "Бег в комфортном темпе, можно разговаривать"
+    },
+    {
+      "name": "бег средний",
+      "category": "бег",
+      "calories_per_hour": 700,
+      "intensity": "высокая",
+      "description": "Бег в быстром темпе, дыхание учащенное"
+    },
+    {
+      "name": "бег интенсивный",
+      "category": "бег",
+      "calories_per_hour": 900,
+      "intensity": "очень высокая",
+      "description": "Спринтерский бег или интервальные тренировки"
+    },
+    {
+      "name": "велосипед легкий",
+      "category": "велосипед",
+      "calories_per_hour": 350,
+      "intensity": "низкая",
+      "description": "Езда на велосипеде в спокойном темпе"
+    },
+    {
+      "name": "велосипед средний",
+      "category": "велосипед",
+      "calories_per_hour": 550,
+      "intensity": "средняя",
+      "description": "Езда в быстром темпе или по холмистой местности"
+    },
+    {
+      "name": "велосипед интенсивный",
+      "category": "велосипед",
+      "calories_per_hour": 800,
+      "intensity": "высокая",
+      "description": "Гонки или езда в гору на высокой скорости"
+    },
+    {
+      "name": "плавание легкое",
+      "category": "плавание",
+      "calories_per_hour": 400,
+      "intensity": "средняя",
+      "description": "Плавание в спокойном темпе, брасс или на спине"
+    },
+    {
+      "name": "плавание интенсивное",
+      "category": "плавание",
+      "calories_per_hour": 600,
+      "intensity": "высокая",
+      "description": "Быстрое плавание кролем или баттерфляем"
+    },
+    {
+      "name": "йога",
+      "category": "фитнес",
+      "calories_per_hour": 200,
+      "intensity": "низкая",
+      "description": "Статические позы и дыхательные практики"
+    },
+    {
+      "name": "пилатес",
+      "category": "фитнес",
+      "calories_per_hour": 250,
+      "intensity": "низкая",
+      "description": "Упражнения на контроль и концентрацию"
+    },
+    {
+      "name": "аэробика",
+      "category": "фитнес",
+      "calories_per_hour": 450,
+      "intensity": "средняя",
+      "description": "Ритмичные упражнения под музыку"
+    },
+    {
+      "name": "силовая тренировка",
+      "category": "фитнес",
+      "calories_per_hour": 400,
+      "intensity": "средняя",
+      "description": "Упражнения с отягощениями или собственным весом"
+    },
+    {
+      "name": "кроссфит",
+      "category": "фитнес",
+      "calories_per_hour": 650,
+      "intensity": "высокая",
+      "description": "Высокоинтенсивные функциональные тренировки"
+    },
+    {
+      "name": "танцы",
+      "category": "танцы",
+      "calories_per_hour": 350,
+      "intensity": "средняя",
+      "description": "Современные или бальные танцы"
+    },
+    {
+      "name": "лыжи",
+      "category": "спорт",
+      "calories_per_hour": 450,
+      "intensity": "средняя",
+      "description": "Катание на лыжах по равнине"
+    },
+    {
+      "name": "коньки",
+      "category": "спорт",
+      "calories_per_hour": 420,
+      "intensity": "средняя",
+      "description": "Катание на коньках"
+    },
+    {
+      "name": "футбол",
+      "category": "спорт",
+      "calories_per_hour": 500,
+      "intensity": "высокая",
+      "description": "Игра в футбол"
+    },
+    {
+      "name": "баскетбол",
+      "category": "спорт",
+      "calories_per_hour": 480,
+      "intensity": "высокая",
+      "description": "Игра в баскетбол"
+    },
+    {
+      "name": "теннис",
+      "category": "спорт",
+      "calories_per_hour": 470,
+      "intensity": "средняя",
+      "description": "Игра в теннис"
+    },
+    {
+      "name": "уборка",
+      "category": "быт",
+      "calories_per_hour": 150,
+      "intensity": "низкая",
+      "description": "Уборка дома"
+    },
+    {
+      "name": "готовка",
+      "category": "быт",
+      "calories_per_hour": 120,
+      "intensity": "низкая",
+      "description": "Приготовление пищи"
+    },
+    {
+      "name": "работа в саду",
+      "category": "быт",
+      "calories_per_hour": 250,
+      "intensity": "средняя",
+      "description": "Садовые работы"
+    },
+    {
+      "name": "подъем по лестнице",
+      "category": "быт",
+      "calories_per_hour": 600,
+      "intensity": "высокая",
+      "description": "Активный подъем по ступенькам"
+    },
+    {
+      "name": "работа стоя",
+      "category": "быт",
+      "calories_per_hour": 120,
+      "intensity": "очень низкая",
+      "description": "Работа в положении стоя"
+    }
+  ],
+  "intensity_levels": {
+    "очень низкая": "Минимальная нагрузка, пульс почти не повышается",
+    "низкая": "Легкая нагрузка, можно свободно разговаривать",
+    "средняя": "Умеренная нагрузка, дыхание учащается",
+    "высокая": "Интенсивная нагрузка, разговор затруднен",
+    "очень высокая": "Максимальная нагрузка, возможна только короткими интервалами"
+  },
+  "activity_categories": [
+    "ходьба",
+    "бег",
+    "велосипед",
+    "плавание",
+    "фитнес",
+    "танцы",
+    "спорт",
+    "быт"
+  ],
+}
