@@ -1,0 +1,1315 @@
+{
+  "foods": [
+    {
+      "name": "молоко",
+      "category": "молочные продукты",
+      "calories": 42,
+      "protein": 3,
+      "fat": 1,
+      "carbs": 5,
+      "common_units": ["мл", "стакан", "чашка"]
+    },
+    {
+      "name": "молоко 2.5%",
+      "category": "молочные продукты",
+      "calories": 52,
+      "protein": 3,
+      "fat": 2.5,
+      "carbs": 5,
+      "common_units": ["мл", "стакан", "чашка"]
+    },
+    {
+      "name": "молоко 3.2%",
+      "category": "молочные продукты",
+      "calories": 60,
+      "protein": 3,
+      "fat": 3.2,
+      "carbs": 5,
+      "common_units": ["мл", "стакан", "чашка"]
+    },
+    {
+      "name": "кефир",
+      "category": "молочные продукты",
+      "calories": 41,
+      "protein": 3,
+      "fat": 1,
+      "carbs": 4,
+      "common_units": ["мл", "стакан"]
+    },
+    {
+      "name": "кефир 2.5%",
+      "category": "молочные продукты",
+      "calories": 53,
+      "protein": 3,
+      "fat": 2.5,
+      "carbs": 4,
+      "common_units": ["мл", "стакан"]
+    },
+    {
+      "name": "йогурт натуральный",
+      "category": "молочные продукты",
+      "calories": 60,
+      "protein": 4,
+      "fat": 2,
+      "carbs": 6,
+      "common_units": ["г", "мл", "стакан"]
+    },
+    {
+      "name": "йогурт фруктовый",
+      "category": "молочные продукты",
+      "calories": 80,
+      "protein": 3,
+      "fat": 2,
+      "carbs": 12,
+      "common_units": ["г", "мл", "стакан"]
+    },
+    {
+      "name": "творог",
+      "category": "молочные продукты",
+      "calories": 121,
+      "protein": 17,
+      "fat": 5,
+      "carbs": 2,
+      "common_units": ["г", "пачка", "ст.л."]
+    },
+    {
+      "name": "творог 0%",
+      "category": "молочные продукты",
+      "calories": 71,
+      "protein": 16,
+      "fat": 0,
+      "carbs": 2,
+      "common_units": ["г", "пачка", "ст.л."]
+    },
+    {
+      "name": "творог 9%",
+      "category": "молочные продукты",
+      "calories": 159,
+      "protein": 16,
+      "fat": 9,
+      "carbs": 2,
+      "common_units": ["г", "пачка", "ст.л."]
+    },
+    {
+      "name": "сметана 15%",
+      "category": "молочные продукты",
+      "calories": 162,
+      "protein": 3,
+      "fat": 15,
+      "carbs": 3,
+      "common_units": ["г", "ст.л.", "ч.л."]
+    },
+    {
+      "name": "сметана 20%",
+      "category": "молочные продукты",
+      "calories": 206,
+      "protein": 3,
+      "fat": 20,
+      "carbs": 3,
+      "common_units": ["г", "ст.л.", "ч.л."]
+    },
+    {
+      "name": "сыр российский",
+      "category": "молочные продукты",
+      "calories": 364,
+      "protein": 23,
+      "fat": 29,
+      "carbs": 0,
+      "common_units": ["г", "ломтик", "кусок"]
+    },
+    {
+      "name": "сыр гауда",
+      "category": "молочные продукты",
+      "calories": 356,
+      "protein": 25,
+      "fat": 27,
+      "carbs": 2,
+      "common_units": ["г", "ломтик", "кусок"]
+    },
+    {
+      "name": "сыр моцарелла",
+      "category": "молочные продукты",
+      "calories": 280,
+      "protein": 28,
+      "fat": 17,
+      "carbs": 3,
+      "common_units": ["г", "ломтик", "кусок"]
+    },
+    {
+      "name": "сливки 10%",
+      "category": "молочные продукты",
+      "calories": 118,
+      "protein": 3,
+      "fat": 10,
+      "carbs": 4,
+      "common_units": ["мл", "стакан", "ст.л."]
+    },
+    {
+      "name": "сливочное масло",
+      "category": "молочные продукты",
+      "calories": 748,
+      "protein": 1,
+      "fat": 82,
+      "carbs": 1,
+      "common_units": ["г", "ст.л.", "ч.л."]
+    },
+    {
+      "name": "куриная грудка",
+      "category": "мясо и птица",
+      "calories": 113,
+      "protein": 23,
+      "fat": 1,
+      "carbs": 0,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "куриное бедро",
+      "category": "мясо и птица",
+      "calories": 209,
+      "protein": 17,
+      "fat": 15,
+      "carbs": 0,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "куриное филе",
+      "category": "мясо и птица",
+      "calories": 110,
+      "protein": 23,
+      "fat": 1,
+      "carbs": 0,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "индейка",
+      "category": "мясо и птица",
+      "calories": 104,
+      "protein": 22,
+      "fat": 1,
+      "carbs": 0,
+      "common_units": ["г"]
+    },
+    {
+      "name": "говядина",
+      "category": "мясо и птица",
+      "calories": 187,
+      "protein": 19,
+      "fat": 12,
+      "carbs": 0,
+      "common_units": ["г"]
+    },
+    {
+      "name": "свинина",
+      "category": "мясо и птица",
+      "calories": 242,
+      "protein": 16,
+      "fat": 19,
+      "carbs": 0,
+      "common_units": ["г"]
+    },
+    {
+      "name": "бекон",
+      "category": "мясо и птица",
+      "calories": 541,
+      "protein": 37,
+      "fat": 42,
+      "carbs": 1,
+      "common_units": ["г", "ломтик"]
+    },
+    {
+      "name": "ветчина",
+      "category": "мясо и птица",
+      "calories": 145,
+      "protein": 22,
+      "fat": 6,
+      "carbs": 1,
+      "common_units": ["г", "ломтик"]
+    },
+    {
+      "name": "колбаса вареная",
+      "category": "мясо и птица",
+      "calories": 257,
+      "protein": 12,
+      "fat": 22,
+      "carbs": 2,
+      "common_units": ["г", "ломтик"]
+    },
+    {
+      "name": "колбаса сырокопченая",
+      "category": "мясо и птица",
+      "calories": 473,
+      "protein": 24,
+      "fat": 41,
+      "carbs": 0,
+      "common_units": ["г", "ломтик"]
+    },
+    {
+      "name": "сосиски",
+      "category": "мясо и птица",
+      "calories": 260,
+      "protein": 12,
+      "fat": 23,
+      "carbs": 2,
+      "common_units": ["шт", "г"]
+    },
+    {
+      "name": "салями",
+      "category": "мясо и птица",
+      "calories": 407,
+      "protein": 19,
+      "fat": 35,
+      "carbs": 1,
+      "common_units": ["г", "ломтик"]
+    },
+    {
+      "name": "лосось",
+      "category": "рыба и морепродукты",
+      "calories": 208,
+      "protein": 20,
+      "fat": 13,
+      "carbs": 0,
+      "common_units": ["г"]
+    },
+    {
+      "name": "тунец",
+      "category": "рыба и морепродукты",
+      "calories": 184,
+      "protein": 30,
+      "fat": 6,
+      "carbs": 0,
+      "common_units": ["г", "банка"]
+    },
+    {
+      "name": "тунец консервированный",
+      "category": "рыба и морепродукты",
+      "calories": 198,
+      "protein": 29,
+      "fat": 8,
+      "carbs": 0,
+      "common_units": ["г", "банка"]
+    },
+    {
+      "name": "сельдь",
+      "category": "рыба и морепродукты",
+      "calories": 158,
+      "protein": 18,
+      "fat": 9,
+      "carbs": 0,
+      "common_units": ["г"]
+    },
+    {
+      "name": "треска",
+      "category": "рыба и морепродукты",
+      "calories": 82,
+      "protein": 18,
+      "fat": 1,
+      "carbs": 0,
+      "common_units": ["г"]
+    },
+    {
+      "name": "минтай",
+      "category": "рыба и морепродукты",
+      "calories": 72,
+      "protein": 16,
+      "fat": 1,
+      "carbs": 0,
+      "common_units": ["г"]
+    },
+    {
+      "name": "креветки",
+      "category": "рыба и морепродукты",
+      "calories": 85,
+      "protein": 18,
+      "fat": 1,
+      "carbs": 0,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "кальмары",
+      "category": "рыба и морепродукты",
+      "calories": 100,
+      "protein": 18,
+      "fat": 2,
+      "carbs": 2,
+      "common_units": ["г"]
+    },
+    {
+      "name": "икра красная",
+      "category": "рыба и морепродукты",
+      "calories": 251,
+      "protein": 31,
+      "fat": 13,
+      "carbs": 1,
+      "common_units": ["г", "ч.л.", "ст.л."]
+    },
+    {
+      "name": "яйцо куриное",
+      "category": "яйца",
+      "calories": 157,
+      "protein": 13,
+      "fat": 11,
+      "carbs": 1,
+      "common_units": ["шт"]
+    },
+    {
+      "name": "яичный белок",
+      "category": "яйца",
+      "calories": 52,
+      "protein": 11,
+      "fat": 0,
+      "carbs": 1,
+      "common_units": ["шт", "г"]
+    },
+    {
+      "name": "яичный желток",
+      "category": "яйца",
+      "calories": 322,
+      "protein": 16,
+      "fat": 27,
+      "carbs": 3,
+      "common_units": ["шт", "г"]
+    },
+    {
+      "name": "рис",
+      "category": "крупы и злаки",
+      "calories": 130,
+      "protein": 3,
+      "fat": 0,
+      "carbs": 28,
+      "common_units": ["г", "стакан"]
+    },
+    {
+      "name": "гречка",
+      "category": "крупы и злаки",
+      "calories": 343,
+      "protein": 13,
+      "fat": 3,
+      "carbs": 72,
+      "common_units": ["г", "стакан"]
+    },
+    {
+      "name": "овсянка",
+      "category": "крупы и злаки",
+      "calories": 68,
+      "protein": 2,
+      "fat": 1,
+      "carbs": 12,
+      "common_units": ["г", "ст.л.", "стакан"]
+    },
+    {
+      "name": "овсяные хлопья",
+      "category": "крупы и злаки",
+      "calories": 366,
+      "protein": 12,
+      "fat": 7,
+      "carbs": 69,
+      "common_units": ["г", "ст.л.", "стакан"]
+    },
+    {
+      "name": "манная крупа",
+      "category": "крупы и злаки",
+      "calories": 328,
+      "protein": 10,
+      "fat": 1,
+      "carbs": 73,
+      "common_units": ["г", "ст.л.", "стакан"]
+    },
+    {
+      "name": "перловка",
+      "category": "крупы и злаки",
+      "calories": 123,
+      "protein": 3,
+      "fat": 1,
+      "carbs": 28,
+      "common_units": ["г", "стакан"]
+    },
+    {
+      "name": "пшено",
+      "category": "крупы и злаки",
+      "calories": 342,
+      "protein": 11,
+      "fat": 3,
+      "carbs": 69,
+      "common_units": ["г", "стакан"]
+    },
+    {
+      "name": "кукурузная крупа",
+      "category": "крупы и злаки",
+      "calories": 337,
+      "protein": 8,
+      "fat": 1,
+      "carbs": 75,
+      "common_units": ["г", "стакан"]
+    },
+    {
+      "name": "хлеб белый",
+      "category": "хлеб и выпечка",
+      "calories": 265,
+      "protein": 9,
+      "fat": 3,
+      "carbs": 49,
+      "common_units": ["г", "кусок", "ломтик"]
+    },
+    {
+      "name": "хлеб черный",
+      "category": "хлеб и выпечка",
+      "calories": 250,
+      "protein": 9,
+      "fat": 3,
+      "carbs": 45,
+      "common_units": ["г", "кусок", "ломтик"]
+    },
+    {
+      "name": "хлеб бородинский",
+      "category": "хлеб и выпечка",
+      "calories": 207,
+      "protein": 7,
+      "fat": 1,
+      "carbs": 41,
+      "common_units": ["г", "кусок", "ломтик"]
+    },
+    {
+      "name": "батон",
+      "category": "хлеб и выпечка",
+      "calories": 262,
+      "protein": 8,
+      "fat": 3,
+      "carbs": 50,
+      "common_units": ["г", "кусок", "ломтик"]
+    },
+    {
+      "name": "лаваш",
+      "category": "хлеб и выпечка",
+      "calories": 277,
+      "protein": 9,
+      "fat": 1,
+      "carbs": 56,
+      "common_units": ["г", "лист", "кусок"]
+    },
+    {
+      "name": "булка",
+      "category": "хлеб и выпечка",
+      "calories": 300,
+      "protein": 8,
+      "fat": 5,
+      "carbs": 55,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "макароны",
+      "category": "макаронные изделия",
+      "calories": 131,
+      "protein": 5,
+      "fat": 1,
+      "carbs": 26,
+      "common_units": ["г", "стакан"]
+    },
+    {
+      "name": "макароны вареные",
+      "category": "макаронные изделия",
+      "calories": 158,
+      "protein": 6,
+      "fat": 1,
+      "carbs": 30,
+      "common_units": ["г", "стакан"]
+    },
+    {
+      "name": "спагетти",
+      "category": "макаронные изделия",
+      "calories": 158,
+      "protein": 6,
+      "fat": 1,
+      "carbs": 31,
+      "common_units": ["г", "порция"]
+    },
+    {
+      "name": "картофель",
+      "category": "овощи",
+      "calories": 77,
+      "protein": 2,
+      "fat": 0,
+      "carbs": 17,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "картофель жареный",
+      "category": "овощи",
+      "calories": 192,
+      "protein": 3,
+      "fat": 8,
+      "carbs": 26,
+      "common_units": ["г", "порция"]
+    },
+    {
+      "name": "картофель фри",
+      "category": "овощи",
+      "calories": 312,
+      "protein": 4,
+      "fat": 15,
+      "carbs": 41,
+      "common_units": ["г", "порция"]
+    },
+    {
+      "name": "морковь",
+      "category": "овощи",
+      "calories": 41,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 10,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "лук",
+      "category": "овощи",
+      "calories": 40,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 9,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "помидор",
+      "category": "овощи",
+      "calories": 18,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 4,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "огурец",
+      "category": "овощи",
+      "calories": 15,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 3,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "капуста",
+      "category": "овощи",
+      "calories": 25,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 6,
+      "common_units": ["г"]
+    },
+    {
+      "name": "капуста цветная",
+      "category": "овощи",
+      "calories": 25,
+      "protein": 2,
+      "fat": 0,
+      "carbs": 5,
+      "common_units": ["г"]
+    },
+    {
+      "name": "брокколи",
+      "category": "овощи",
+      "calories": 34,
+      "protein": 3,
+      "fat": 0,
+      "carbs": 7,
+      "common_units": ["г"]
+    },
+    {
+      "name": "перец болгарский",
+      "category": "овощи",
+      "calories": 27,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 6,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "кабачок",
+      "category": "овощи",
+      "calories": 24,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 5,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "баклажан",
+      "category": "овощи",
+      "calories": 24,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 6,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "тыква",
+      "category": "овощи",
+      "calories": 26,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 7,
+      "common_units": ["г"]
+    },
+    {
+      "name": "свекла",
+      "category": "овощи",
+      "calories": 43,
+      "protein": 2,
+      "fat": 0,
+      "carbs": 10,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "зелень",
+      "category": "овощи",
+      "calories": 36,
+      "protein": 3,
+      "fat": 0,
+      "carbs": 8,
+      "common_units": ["г", "пучок"]
+    },
+    {
+      "name": "яблоко",
+      "category": "фрукты и ягоды",
+      "calories": 52,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 14,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "банан",
+      "category": "фрукты и ягоды",
+      "calories": 89,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 23,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "апельсин",
+      "category": "фрукты и ягоды",
+      "calories": 47,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 12,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "мандарин",
+      "category": "фрукты и ягды",
+      "calories": 53,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 13,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "груша",
+      "category": "фрукты и ягоды",
+      "calories": 57,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 15,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "персик",
+      "category": "фрукты и ягды",
+      "calories": 39,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 10,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "виноград",
+      "category": "фрукты и ягды",
+      "calories": 69,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 18,
+      "common_units": ["г", "гроздь"]
+    },
+    {
+      "name": "клубника",
+      "category": "фрукты и ягды",
+      "calories": 32,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 8,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "малина",
+      "category": "фрукты и ягды",
+      "calories": 52,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 12,
+      "common_units": ["г"]
+    },
+    {
+      "name": "черника",
+      "category": "фрукты и ягды",
+      "calories": 57,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 14,
+      "common_units": ["г"]
+    },
+    {
+      "name": "арбуз",
+      "category": "фрукты и ягды",
+      "calories": 30,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 8,
+      "common_units": ["г", "ломтик"]
+    },
+    {
+      "name": "дыня",
+      "category": "фрукты и ягды",
+      "calories": 34,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 8,
+      "common_units": ["г", "ломтик"]
+    },
+    {
+      "name": "ананас",
+      "category": "фрукты и ягды",
+      "calories": 50,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 13,
+      "common_units": ["г", "ломтик"]
+    },
+    {
+      "name": "киви",
+      "category": "фрукты и ягды",
+      "calories": 61,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 15,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "лимон",
+      "category": "фрукты и ягды",
+      "calories": 29,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 9,
+      "common_units": ["г", "шт", "долька"]
+    },
+    {
+      "name": "грецкий орех",
+      "category": "орехи и семечки",
+      "calories": 654,
+      "protein": 15,
+      "fat": 65,
+      "carbs": 14,
+      "common_units": ["г", "шт", "ст.л."]
+    },
+    {
+      "name": "миндаль",
+      "category": "орехи и семечки",
+      "calories": 579,
+      "protein": 21,
+      "fat": 50,
+      "carbs": 22,
+      "common_units": ["г", "шт", "ст.л."]
+    },
+    {
+      "name": "арахис",
+      "category": "орехи и семечки",
+      "calories": 567,
+      "protein": 26,
+      "fat": 49,
+      "carbs": 16,
+      "common_units": ["г", "шт", "ст.л."]
+    },
+    {
+      "name": "фисташки",
+      "category": "орехи и семечки",
+      "calories": 560,
+      "protein": 20,
+      "fat": 45,
+      "carbs": 27,
+      "common_units": ["г", "шт", "ст.л."]
+    },
+    {
+      "name": "семечки подсолнечника",
+      "category": "орехи и семечки",
+      "calories": 584,
+      "protein": 21,
+      "fat": 51,
+      "carbs": 20,
+      "common_units": ["г", "ст.л."]
+    },
+    {
+      "name": "семечки тыквенные",
+      "category": "орехи и семечки",
+      "calories": 559,
+      "protein": 30,
+      "fat": 49,
+      "carbs": 11,
+      "common_units": ["г", "ст.л."]
+    },
+    {
+      "name": "фасоль",
+      "category": "бобовые",
+      "calories": 333,
+      "protein": 24,
+      "fat": 2,
+      "carbs": 62,
+      "common_units": ["г", "стакан"]
+    },
+    {
+      "name": "горох",
+      "category": "бобовые",
+      "calories": 298,
+      "protein": 23,
+      "fat": 2,
+      "carbs": 53,
+      "common_units": ["г", "стакан"]
+    },
+    {
+      "name": "нут",
+      "category": "бобовые",
+      "calories": 364,
+      "protein": 19,
+      "fat": 6,
+      "carbs": 61,
+      "common_units": ["г", "стакан"]
+    },
+    {
+      "name": "чечевица",
+      "category": "бобовые",
+      "calories": 116,
+      "protein": 9,
+      "fat": 0,
+      "carbs": 20,
+      "common_units": ["г", "стакан"]
+    },
+    {
+      "name": "масло подсолнечное",
+      "category": "масла и соусы",
+      "calories": 884,
+      "protein": 0,
+      "fat": 100,
+      "carbs": 0,
+      "common_units": ["мл", "ст.л.", "ч.л."]
+    },
+    {
+      "name": "масло оливковое",
+      "category": "масла и соусы",
+      "calories": 884,
+      "protein": 0,
+      "fat": 100,
+      "carbs": 0,
+      "common_units": ["мл", "ст.л.", "ч.л."]
+    },
+    {
+      "name": "майонез",
+      "category": "масла и соусы",
+      "calories": 624,
+      "protein": 1,
+      "fat": 67,
+      "carbs": 3,
+      "common_units": ["г", "ст.л.", "ч.л."]
+    },
+    {
+      "name": "кетчуп",
+      "category": "масла и соусы",
+      "calories": 101,
+      "protein": 2,
+      "fat": 0,
+      "carbs": 25,
+      "common_units": ["г", "ст.л.", "ч.л."]
+    },
+    {
+      "name": "горчица",
+      "category": "масла и соусы",
+      "calories": 162,
+      "protein": 6,
+      "fat": 6,
+      "carbs": 22,
+      "common_units": ["г", "ч.л.", "ст.л."]
+    },
+    {
+      "name": "соус соевый",
+      "category": "масла и соусы",
+      "calories": 53,
+      "protein": 6,
+      "fat": 0,
+      "carbs": 5,
+      "common_units": ["мл", "ст.л.", "ч.л."]
+    },
+    {
+      "name": "сахар",
+      "category": "сладости и десерты",
+      "calories": 387,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 100,
+      "common_units": ["г", "ст.л.", "ч.л."]
+    },
+    {
+      "name": "мед",
+      "category": "сладости и десерты",
+      "calories": 304,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 82,
+      "common_units": ["г", "ст.л.", "ч.л."]
+    },
+    {
+      "name": "шоколад молочный",
+      "category": "сладости и десерты",
+      "calories": 554,
+      "protein": 8,
+      "fat": 31,
+      "carbs": 60,
+      "common_units": ["г", "плитка", "долька"]
+    },
+    {
+      "name": "шоколад горький",
+      "category": "сладости и десерты",
+      "calories": 546,
+      "protein": 5,
+      "fat": 31,
+      "carbs": 61,
+      "common_units": ["г", "плитка", "долька"]
+    },
+    {
+      "name": "печенье",
+      "category": "сладости и десерты",
+      "calories": 417,
+      "protein": 6,
+      "fat": 10,
+      "carbs": 76,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "конфеты",
+      "category": "сладости и десерты",
+      "calories": 360,
+      "protein": 2,
+      "fat": 10,
+      "carbs": 70,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "мороженое",
+      "category": "сладости и десерты",
+      "calories": 207,
+      "protein": 4,
+      "fat": 11,
+      "carbs": 24,
+      "common_units": ["г", "порция", "стакан"]
+    },
+    {
+      "name": "торт",
+      "category": "сладости и десерты",
+      "calories": 350,
+      "protein": 5,
+      "fat": 15,
+      "carbs": 50,
+      "common_units": ["г", "кусок"]
+    },
+    {
+      "name": "пирожное",
+      "category": "сладости и десерты",
+      "calories": 320,
+      "protein": 4,
+      "fat": 12,
+      "carbs": 50,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "вафли",
+      "category": "сладости и десерты",
+      "calories": 425,
+      "protein": 8,
+      "fat": 14,
+      "carbs": 71,
+      "common_units": ["г", "шт"]
+    },
+    {
+      "name": "вода",
+      "category": "напитки",
+      "calories": 0,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 0,
+      "common_units": ["мл", "л", "стакан"]
+    },
+    {
+      "name": "сок яблочный",
+      "category": "напитки",
+      "calories": 46,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 11,
+      "common_units": ["мл", "л", "стакан"]
+    },
+    {
+      "name": "сок апельсиновый",
+      "category": "напитки",
+      "calories": 45,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 10,
+      "common_units": ["мл", "л", "стакан"]
+    },
+    {
+      "name": "сок томатный",
+      "category": "напитки",
+      "calories": 21,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 4,
+      "common_units": ["мл", "л", "стакан"]
+    },
+    {
+      "name": "кола",
+      "category": "напитки",
+      "calories": 42,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 11,
+      "common_units": ["мл", "л", "стакан"]
+    },
+    {
+      "name": "кофе",
+      "category": "напитки",
+      "calories": 2,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 0,
+      "common_units": ["мл", "чашка"]
+    },
+    {
+      "name": "чай",
+      "category": "напитки",
+      "calories": 1,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 0,
+      "common_units": ["мл", "чашка"]
+    },
+    {
+      "name": "пиво",
+      "category": "напитки",
+      "calories": 43,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 4,
+      "common_units": ["мл", "л", "бутылка"]
+    },
+    {
+      "name": "вино",
+      "category": "напитки",
+      "calories": 83,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 3,
+      "common_units": ["мл", "бокал"]
+    },
+    {
+      "name": "пицца",
+      "category": "фаст-фуд",
+      "calories": 266,
+      "protein": 11,
+      "fat": 10,
+      "carbs": 33,
+      "common_units": ["г", "кусок", "шт"]
+    },
+    {
+      "name": "бургер",
+      "category": "фаст-фуд",
+      "calories": 295,
+      "protein": 17,
+      "fat": 12,
+      "carbs": 30,
+      "common_units": ["шт"]
+    },
+    {
+      "name": "хот-дог",
+      "category": "фаст-фуд",
+      "calories": 290,
+      "protein": 10,
+      "fat": 17,
+      "carbs": 24,
+      "common_units": ["шт"]
+    },
+    {
+      "name": "шаурма",
+      "category": "фаст-фуд",
+      "calories": 250,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 28,
+      "common_units": ["шт", "порция"]
+    },
+    {
+      "name": "суши",
+      "category": "фаст-фуд",
+      "calories": 150,
+      "protein": 5,
+      "fat": 1,
+      "carbs": 30,
+      "common_units": ["шт", "порция"]
+    },
+    {
+      "name": "роллы",
+      "category": "фаст-фуд",
+      "calories": 140,
+      "protein": 4,
+      "fat": 1,
+      "carbs": 29,
+      "common_units": ["шт", "порция"]
+    },
+    {
+      "name": "борщ",
+      "category": "готовые блюда",
+      "calories": 60,
+      "protein": 3,
+      "fat": 2,
+      "carbs": 8,
+      "common_units": ["г", "порция", "тарелка"]
+    },
+    {
+      "name": "щи",
+      "category": "готовые блюда",
+      "calories": 55,
+      "protein": 3,
+      "fat": 2,
+      "carbs": 7,
+      "common_units": ["г", "порция", "тарелка"]
+    },
+    {
+      "name": "куриный суп",
+      "category": "готовые блюда",
+      "calories": 50,
+      "protein": 4,
+      "fat": 2,
+      "carbs": 5,
+      "common_units": ["г", "порция", "тарелка"]
+    },
+    {
+      "name": "грибной суп",
+      "category": "готовые блюда",
+      "calories": 45,
+      "protein": 2,
+      "fat": 2,
+      "carbs": 6,
+      "common_units": ["г", "порция", "тарелка"]
+    },
+    {
+      "name": "плов",
+      "category": "готовые блюда",
+      "calories": 250,
+      "protein": 10,
+      "fat": 12,
+      "carbs": 25,
+      "common_units": ["г", "порция", "тарелка"]
+    },
+    {
+      "name": "котлеты",
+      "category": "готовые блюда",
+      "calories": 220,
+      "protein": 15,
+      "fat": 15,
+      "carbs": 8,
+      "common_units": ["шт", "г", "порция"]
+    },
+    {
+      "name": "омлет",
+      "category": "готовые блюда",
+      "calories": 154,
+      "protein": 11,
+      "fat": 12,
+      "carbs": 2,
+      "common_units": ["г", "порция"]
+    },
+    {
+      "name": "блины",
+      "category": "готовые блюда",
+      "calories": 233,
+      "protein": 6,
+      "fat": 8,
+      "carbs": 33,
+      "common_units": ["шт", "г", "порция"]
+    },
+    {
+      "name": "сырники",
+      "category": "готовые блюда",
+      "calories": 183,
+      "protein": 12,
+      "fat": 6,
+      "carbs": 20,
+      "common_units": ["шт", "г", "порция"]
+    },
+    {
+      "name": "вареники",
+      "category": "готовые блюда",
+      "calories": 203,
+      "protein": 8,
+      "fat": 5,
+      "carbs": 32,
+      "common_units": ["шт", "г", "порция"]
+    },
+    {
+      "name": "пельмени",
+      "category": "готовые блюда",
+      "calories": 275,
+      "protein": 12,
+      "fat": 15,
+      "carbs": 25,
+      "common_units": ["шт", "г", "порция"]
+    }
+  ],
+  "unit_conversion": {
+    "шт": 1,
+    "г": 1,
+    "кг": 1000,
+    "мл": 1,
+    "л": 1000,
+    "ст.л.": 15,
+    "ч.л.": 5,
+    "стакан": 200,
+    "чашка": 250,
+    "кусок": 30,
+    "ломтик": 20,
+    "пачка": 250,
+    "банка": 400,
+    "плитка": 100,
+    "долька": 10,
+    "порция": 150,
+    "тарелка": 300,
+    "бутылка": 500,
+    "бокал": 150,
+    "лист": 50,
+    "гроздь": 150,
+    "пучок": 30
+  },
+  "categories": [
+    "молочные продукты",
+    "мясо и птица",
+    "рыба и морепродукты",
+    "яйца",
+    "крупы и злаки",
+    "хлеб и выпечка",
+    "макаронные изделия",
+    "овощи",
+    "фрукты и ягоды",
+    "орехи и семечки",
+    "бобовые",
+    "масла и соусы",
+    "сладости и десерты",
+    "напитки",
+    "фаст-фуд",
+    "готовые блюда"
+  ]
+}
