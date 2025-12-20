@@ -5,7 +5,7 @@ from telegram.ext import Application, MessageHandler, CommandHandler, filters, C
 from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove
 from datetime import date
 
-BOT_TOKEN = '8419712960:AAEQH0LNrebnCKV3eOfWJk8WBIrkdZihxWs'
+BOT_TOKEN = ''
 
 DATABASE_NAME = 'КБЖУ.db'
 
@@ -825,4 +825,5 @@ def main():
     application.run_polling()
 
 if __name__ == '__main__':
+
     main()
